@@ -12,3 +12,6 @@
     > BlueGreen
 
     Thank you so much for reading! ☺
+    
+    Now that we have come this far, let's explore further.  Here is some more information added
+    to the readme file.
